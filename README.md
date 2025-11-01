@@ -11,31 +11,6 @@
 
 ---
 
-## 🚀 About Me
-
-```javascript
-const axse351 = {
-  location: "Bandung, Indonesia 🇮🇩",
-  code: ["JavaScript", "PHP", "Python", "Java"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Vue", "Next.js"],
-      css: ["Tailwind", "Bootstrap", "Material-UI"],
-    },
-    backEnd: {
-      php: ["Laravel", "CodeIgniter"],
-      js: ["Node.js", "Express"],
-      python: ["Django", "Flask"],
-    },
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
-    devOps: ["Docker", "AWS", "Git", "Linux"],
-    tools: ["VS Code", "Postman", "Figma"],
-  },
-  currentFocus: "Building scalable web applications",
-  funFact: "I debug with console.log() 🐛",
-};
-```
-
 ---
 
 ## 🛠️ Tech Stack
